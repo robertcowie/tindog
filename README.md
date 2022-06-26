@@ -14,10 +14,11 @@ tindog is a practice project a part of the App Brewery bootcamp curriculum.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-Just take alook at it.
+Just take alook at it, https://robertcowie.github.io/tindog/
 
 ## 🎈 Usage <a name = "usage"></a>
 
+N/A
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
