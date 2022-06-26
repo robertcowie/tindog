@@ -23,7 +23,7 @@ Just take alook at it.
 
 - HTML
 - CSS
--- Bootstrap 5.2
+- Bootstrap 5.2
 
 ## ✍️ Author <a name = "author"></a>
 
